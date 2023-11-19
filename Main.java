@@ -1,8 +1,8 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
- * @author 
+ * Creates a bouncing coin and ellipse animation.
+ * @JulianLi
  *
  */
 class Main {
